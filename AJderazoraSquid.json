@@ -2,13 +2,13 @@
 "Ads":
   [
     {
-      "status_redirect":"",
-      "link_redirect":"",
+      "status_redirect":"0",
+      "link_redirect":"https://",
       "admob_inter":"",
       "admob_banner":"",
       "admob_open_ads":"",
       "select_ads":"startapp",
-      "interval":"",
+      "interval":"5",
       "unityID":"",
       "unity_banner":"",
       "unity_inter":"",
