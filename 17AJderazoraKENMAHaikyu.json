@@ -1,0 +1,105 @@
+{
+"Ads":
+  [
+    {
+      "status_redirect":"0",
+      "link_redirect":"https://",
+      "admob_inter":"",
+      "admob_banner":"",
+      "admob_open_ads":"",
+      "select_ads":"STARTAPP",
+      "interval":5,
+      "unityID":"",
+      "unity_banner":"",
+      "unity_inter":"",
+      "startappid":"209122226",
+      "kidoz_pub_id":"",
+      "kidoz_token":""
+    }
+  ],
+ 
+  "Data":
+  [
+    {
+      "title":"KENMA 1",
+      "image":"https://i.postimg.cc/3NrPqGY0/derazora1.jpg"
+    },
+    {
+      "title":"KENMA 2",
+      "image":"https://i.postimg.cc/4y8rR3xL/derazora2.jpg"
+    },
+    {
+      "title":"KENMA 3",
+      "image":"https://i.postimg.cc/k5xzXs5t/derazora3.jpg"
+    },
+    {
+      "title":"KENMA 4",
+      "image":"https://i.postimg.cc/FsB2P1q1/derazora4.jpg"
+    },
+    {
+      "title":"KENMA 5",
+      "image":"https://i.postimg.cc/jd5pQyMG/derazora5.jpg"
+    },
+    {
+      "title":"KENMA 6",
+      "image":"https://i.postimg.cc/G2xWzKw1/derazora6.jpg"
+    },
+    {
+      "title":"KENMA 7",
+      "image":"https://i.postimg.cc/h4pFd21L/derazora7.jpg"
+    },
+    {
+      "title":"KENMA 8",
+      "image":"https://i.postimg.cc/3x0zzY51/derazora8.jpg"
+    },
+    {
+      "title":"KENMA 9",
+      "image":"https://i.postimg.cc/hvG5sq19/derazora9.jpg"
+    },
+    {
+      "title":"KENMA 10",
+      "image":"https://i.postimg.cc/wvgPtNt4/derazora10.jpg"
+    },
+    {
+      "title":"KENMA 11",
+      "image":"https://i.postimg.cc/8C8xS9TS/derazora11.jpg"
+    },
+    {
+      "title":"KENMA 12",
+      "image":"https://i.postimg.cc/zf12MhkD/derazora12.jpg"
+    },
+    {
+      "title":"KENMA 13",
+      "image":"https://i.postimg.cc/ZqFshqf8/derazora13.jpg"
+    },
+    {
+      "title":"KENMA 14",
+      "image":"https://i.postimg.cc/Rhbbbbg2/derazora14.jpg"
+    },
+    {
+      "title":"KENMA 15",
+      "image":"https://i.postimg.cc/QN6PtHjS/derazora15.jpg"
+    },
+    {
+      "title":"KENMA 16",
+      "image":"https://i.postimg.cc/m2zdgjX2/derazora16.jpg"
+    },
+    {
+      "title":"KENMA 17",
+      "image":"https://i.postimg.cc/yYMLgRth/derazora17.jpg"
+    },
+    {
+      "title":"KENMA 18",
+      "image":"https://i.postimg.cc/8c3tbf5S/derazora18.jpg"
+    },
+    {
+      "title":"KENMA 19",
+      "image":"https://i.postimg.cc/fyk8XfMC/derazora19.jpg"
+    },
+    {
+      "title":"KENMA 20",
+      "image":"https://i.postimg.cc/y6rQKtTb/derazora20.jpg"  
+
+    }
+  ]
+}
