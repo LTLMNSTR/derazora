@@ -1,0 +1,105 @@
+{
+"Ads":
+  [
+    {
+      "status_redirect":"0",
+      "link_redirect":"https://",
+      "admob_inter":"",
+      "admob_banner":"",
+      "admob_open_ads":"",
+      "select_ads":"STARTAPP",
+      "interval":5,
+      "unityID":"",
+      "unity_banner":"",
+      "unity_inter":"",
+      "startappid":"209876457",
+      "kidoz_pub_id":"",
+      "kidoz_token":""
+    }
+  ],
+ 
+  "Data":
+  [
+    {
+      "title":"Tengen Uzui 1",
+      "image":"https://i.postimg.cc/RCnsMGbC/derazora1.jpg"
+    },
+    {
+      "title":"Tengen Uzui 2",
+      "image":"https://i.postimg.cc/6qRYY5G4/derazora2.jpg"
+    },
+    {
+      "title":"Tengen Uzui 3",
+      "image":"https://i.postimg.cc/3x3nFhrW/derazora3.jpg"
+    },
+    {
+      "title":"Tengen Uzui 4",
+      "image":"https://i.postimg.cc/WbG5ZzvQ/derazora4.jpg"
+    },
+    {
+      "title":"Tengen Uzui 5",
+      "image":"https://i.postimg.cc/k54sLybm/derazora5.jpg"
+    },
+    {
+      "title":"Tengen Uzui 6",
+      "image":"https://i.postimg.cc/15hW46LG/derazora6.jpg"
+    },
+    {
+      "title":"Tengen Uzui 7",
+      "image":"https://i.postimg.cc/xd45Qbvb/derazora7.jpg"
+    },
+    {
+      "title":"Tengen Uzui 8",
+      "image":"https://i.postimg.cc/FHGGP61p/derazora8.jpg"
+    },
+    {
+      "title":"Tengen Uzui 9",
+      "image":"https://i.postimg.cc/6340p5cb/derazora9.jpg"
+    },
+    {
+      "title":"Tengen Uzui 10",
+      "image":"https://i.postimg.cc/8PSHTG6w/derazora10.jpg"
+    },
+    {
+      "title":"Tengen Uzui 11",
+      "image":"https://i.postimg.cc/vTRvgFSY/derazora11.jpg"
+    },
+    {
+      "title":"Tengen Uzui 12",
+      "image":"https://i.postimg.cc/sfSmFxvv/derazora12.jpg"
+    },
+    {
+      "title":"Tengen Uzui 13",
+      "image":"https://i.postimg.cc/tCNzTcdb/derazora13.jpg"
+    },
+    {
+      "title":"Tengen Uzui 14",
+      "image":"https://i.postimg.cc/x8K3LxWK/derazora14.jpg"
+    },
+    {
+      "title":"Tengen Uzui 15",
+      "image":"https://i.postimg.cc/mrt3m2vZ/derazora15.jpg"
+    },
+    {
+      "title":"Tengen Uzui 16",
+      "image":"https://i.postimg.cc/NMX6wCGW/derazora16.jpg"
+    },
+    {
+      "title":"Tengen Uzui 17",
+      "image":"https://i.postimg.cc/CxMsf4Jq/derazora17.jpg"
+    },
+    {
+      "title":"Tengen Uzui 18",
+      "image":"https://i.postimg.cc/Pq9W9nHW/derazora18.jpg"
+    },
+    {
+      "title":"Tengen Uzui 19",
+      "image":"https://i.postimg.cc/1XcD8gqB/derazora19.jpg"
+    },
+    {
+      "title":"Tengen Uzui 20",
+      "image":"https://i.postimg.cc/8cVhkdjs/derazora20.jpg"  
+
+    }
+  ]
+}
