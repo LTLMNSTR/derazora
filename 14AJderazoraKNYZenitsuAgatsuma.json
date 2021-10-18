@@ -1,0 +1,105 @@
+{
+"Ads":
+  [
+    {
+      "status_redirect":"0",
+      "link_redirect":"https://",
+      "admob_inter":"",
+      "admob_banner":"",
+      "admob_open_ads":"",
+      "select_ads":"STARTAPP",
+      "interval":5,
+      "unityID":"",
+      "unity_banner":"",
+      "unity_inter":"",
+      "startappid":"209146949",
+      "kidoz_pub_id":"",
+      "kidoz_token":""
+    }
+  ],
+ 
+  "Data":
+  [
+    {
+      "title":"Zenitsu 1",
+      "image":"https://i.postimg.cc/WbjTPDb3/derazora1.jpg"
+    },
+    {
+      "title":"Zenitsu 2",
+      "image":"https://i.postimg.cc/KvNFcZR5/derazora2.jpg"
+    },
+    {
+      "title":"Zenitsu 3",
+      "image":"https://i.postimg.cc/xCMDwQwM/derazora3.jpg"
+    },
+    {
+      "title":"Zenitsu 4",
+      "image":"https://i.postimg.cc/L88SnrPF/derazora4.jpg"
+    },
+    {
+      "title":"Zenitsu 5",
+      "image":"https://i.postimg.cc/9QghTJPR/derazora5.jpg"
+    },
+    {
+      "title":"Zenitsu 6",
+      "image":"https://i.postimg.cc/KYKy5BQ9/derazora6.jpg"
+    },
+    {
+      "title":"Zenitsu 7",
+      "image":"https://i.postimg.cc/PqBnVJRd/derazora7.jpg"
+    },
+    {
+      "title":"Zenitsu 8",
+      "image":"https://i.postimg.cc/mZ3WVbNG/derazora8.jpg"
+    },
+    {
+      "title":"Zenitsu 9",
+      "image":"https://i.postimg.cc/cCcqJm4J/derazora9.jpg"
+    },
+    {
+      "title":"Zenitsu 10",
+      "image":"https://i.postimg.cc/TYCMMC47/derazora10.jpg"
+    },
+    {
+      "title":"Zenitsu 11",
+      "image":"https://i.postimg.cc/x18r0Lr0/derazora11.jpg"
+    },
+    {
+      "title":"Zenitsu 12",
+      "image":"https://i.postimg.cc/PrtsRB2v/derazora12.jpg"
+    },
+    {
+      "title":"Zenitsu 13",
+      "image":"https://i.postimg.cc/Fzv5mqvq/derazora13.jpg"
+    },
+    {
+      "title":"Zenitsu 14",
+      "image":"https://i.postimg.cc/MHq4gQbJ/derazora14.jpg"
+    },
+    {
+      "title":"Zenitsu 15",
+      "image":"https://i.postimg.cc/nhPyMMZq/derazora15.jpg"
+    },
+    {
+      "title":"Zenitsu 16",
+      "image":"https://i.postimg.cc/63sFLS83/derazora16.jpg"
+    },
+    {
+      "title":"Zenitsu 17",
+      "image":"https://i.postimg.cc/rmS3hJ49/derazora17.jpg"
+    },
+    {
+      "title":"Zenitsu 18",
+      "image":"https://i.postimg.cc/3N16hxn4/derazora18.jpg"
+    },
+    {
+      "title":"Zenitsu 19",
+      "image":"https://i.postimg.cc/fWCgJkfk/derazora19.jpg"
+    },
+    {
+      "title":"Zenitsu 20",
+      "image":"https://i.postimg.cc/D0vjxKn2/derazora20.jpg"  
+
+    }
+  ]
+}
