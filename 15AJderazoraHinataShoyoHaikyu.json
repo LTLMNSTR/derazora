@@ -1,0 +1,106 @@
+{
+"Ads":
+  [
+    {
+      "status_redirect":"0",
+      "link_redirect":"https://",
+      "admob_inter":"",
+      "admob_banner":"",
+      "admob_open_ads":"",
+      "select_ads":"STARTAPP",
+      "interval":5,
+      "unityID":"",
+      "unity_banner":"",
+      "unity_inter":"",
+      "startappid":"209769126",
+      "kidoz_pub_id":"",
+      "kidoz_token":""
+    }
+  ],
+ 
+  "Data":
+  [
+    {
+      "title":"Hinata Shoyo 1",
+      "image":"https://i.postimg.cc/C5tf2jkc/derazora1.jpg"
+    },
+    {
+      "title":"Hinata Shoyo 2",
+      "image":"https://i.postimg.cc/c15Y6N2f/derazora2.jpg"
+    },
+    {
+      "title":"Hinata Shoyo 3",
+      "image":"https://i.postimg.cc/FsdSLBX8/derazora3.jpg"
+    },
+    {
+      "title":"Hinata Shoyo 4",
+      "image":"https://i.postimg.cc/4ND9bQJd/derazora4.jpg"
+    },
+    {
+      "title":"Hinata Shoyo 5",
+      "image":"https://i.postimg.cc/htV7CQj0/derazora5.jpg"
+    },
+    {
+      "title":"Hinata Shoyo 6",
+      "image":"https://i.postimg.cc/5t1QD9QW/derazora6.jpg"
+    },
+    {
+      "title":"Hinata Shoyo 7",
+      "image":"https://i.postimg.cc/7LVJ4vSG/derazora7.jpg"
+    },
+    {
+      "title":"Hinata Shoyo 8",
+      "image":"https://i.postimg.cc/26Sb8HxH/derazora8.jpg"
+    },
+    {
+      "title":"Hinata Shoyo 9",
+      "image":"https://i.postimg.cc/XJ1ZZwHn/derazora9.jpg"
+    },
+    {
+      "title":"Hinata Shoyo 10",
+      "image":"https://i.postimg.cc/6qDycBxS/derazora10.jpg"
+    },
+    {
+      "title":"Hinata Shoyo 11",
+      "image":"https://i.postimg.cc/0j6z7bFD/derazora11.jpg"
+    },
+    {
+      "title":"Hinata Shoyo 12",
+      "image":"https://i.postimg.cc/s2wx8YR5/derazora12.jpg"
+    },
+    {
+      "title":"Hinata Shoyo 13",
+      "image":"https://i.postimg.cc/L47Y23gT/derazora13.jpg"
+    },
+    {
+      "title":"Hinata Shoyo 14",
+      "image":"https://i.postimg.cc/7Y2C6Jgy/derazora14.jpg"
+    },
+    {
+      "title":"Hinata Shoyo 15",
+      "image":"https://i.postimg.cc/P5nC8f4v/derazora15.jpg"
+    },
+    {
+      "title":"Hinata Shoyo 16",
+      "image":"https://i.postimg.cc/Jz3G3w66/derazora16.jpg"
+    },
+    {
+      "title":"Hinata Shoyo 17",
+      "image":"https://i.postimg.cc/6qGQyF4h/derazora17.jpg"
+    },
+    {
+      "title":"Hinata Shoyo 18",
+      "image":"https://i.postimg.cc/NMnMGQFM/derazora18.jpg"
+    },
+    {
+      "title":"Hinata Shoyo 19",
+      "image":"https://i.postimg.cc/26yyf1zM/derazora19.jpg"
+    },
+    {
+      "title":"Hinata Shoyo 20",
+      "image":"https://i.postimg.cc/HLpjBSFp/derazora20.jpg
+"  
+
+    }
+  ]
+}
