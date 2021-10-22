@@ -1,0 +1,105 @@
+{
+"Ads":
+  [
+    {
+      "status_redirect":"0",
+      "link_redirect":"https://",
+      "admob_inter":"",
+      "admob_banner":"",
+      "admob_open_ads":"",
+      "select_ads":"STARTAPP",
+      "interval":5,
+      "unityID":"",
+      "unity_banner":"",
+      "unity_inter":"",
+      "startappid":"209098915",
+      "kidoz_pub_id":"",
+      "kidoz_token":""
+    }
+  ],
+ 
+  "Data":
+  [
+    {
+      "title":"Giyu Tomioka 1",
+      "image":"https://i.postimg.cc/zvdMcRCW/derazora-1.jpg"
+    },
+    {
+      "title":"Giyu Tomioka 2",
+      "image":"https://i.postimg.cc/hP568TPR/derazora-2.jpg"
+    },
+    {
+      "title":"Giyu Tomioka 3",
+      "image":"https://i.postimg.cc/90N8pH2Y/derazora-3.jpg"
+    },
+    {
+      "title":"Giyu Tomioka 4",
+      "image":"https://i.postimg.cc/43C0qG98/derazora-4.jpg"
+    },
+    {
+      "title":"Giyu Tomioka 5",
+      "image":"https://i.postimg.cc/9fGkjkPc/derazora-5.jpg"
+    },
+    {
+      "title":"Giyu Tomioka 6",
+      "image":"https://i.postimg.cc/vBhS46Sj/derazora-6.jpg"
+    },
+    {
+      "title":"Giyu Tomioka 7",
+      "image":"https://i.postimg.cc/Wb3xJXV7/derazora-7.jpg"
+    },
+    {
+      "title":"Giyu Tomioka 8",
+      "image":"https://i.postimg.cc/FHkqTz7d/derazora-8.jpg"
+    },
+    {
+      "title":"Giyu Tomioka 9",
+      "image":"https://i.postimg.cc/kgS1xHpW/derazora-9.jpg"
+    },
+    {
+      "title":"Giyu Tomioka 10",
+      "image":"https://i.postimg.cc/kXBh5GN1/derazora-10.jpg"
+    },
+    {
+      "title":"Giyu Tomioka 11",
+      "image":"https://i.postimg.cc/Fz1G1CSd/derazora-11.jpg"
+    },
+    {
+      "title":"Giyu Tomioka 12",
+      "image":"https://i.postimg.cc/C1hcpxL4/derazora-12.jpg"
+    },
+    {
+      "title":"Giyu Tomioka 13",
+      "image":"https://i.postimg.cc/tJfk6ddr/derazora-13.jpg"
+    },
+    {
+      "title":"Giyu Tomioka 14",
+      "image":"https://i.postimg.cc/QMr6Sq2w/derazora-14.jpg"
+    },
+    {
+      "title":"Giyu Tomioka 15",
+      "image":"https://i.postimg.cc/dtk4YXvg/derazora-15.jpg"
+    },
+    {
+      "title":"Giyu Tomioka 16",
+      "image":"https://i.postimg.cc/Ssxft1DT/derazora-16.jpg"
+    },
+    {
+      "title":"Giyu Tomioka 17",
+      "image":"https://i.postimg.cc/1RYJbPxp/derazora-17.jpg"
+    },
+    {
+      "title":"Giyu Tomioka 18",
+      "image":"https://i.postimg.cc/Pqh415Zk/derazora-18.jpg"
+    },
+    {
+      "title":"Giyu Tomioka 19",
+      "image":"https://i.postimg.cc/ZRsxkPQT/derazora-19.jpg"
+    },
+    {
+      "title":"Giyu Tomioka 20",
+      "image":"https://i.postimg.cc/q7LGwHX6/derazora-20.jpg"  
+
+    }
+  ]
+}
