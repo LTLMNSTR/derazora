@@ -1,0 +1,105 @@
+{
+"Ads":
+  [
+    {
+      "status_redirect":"0",
+      "link_redirect":"https://",
+      "admob_inter":"",
+      "admob_banner":"",
+      "admob_open_ads":"",
+      "select_ads":"STARTAPP",
+      "interval":5,
+      "unityID":"",
+      "unity_banner":"",
+      "unity_inter":"",
+      "startappid":"209499279",
+      "kidoz_pub_id":"",
+      "kidoz_token":""
+    }
+  ],
+ 
+  "Data":
+  [
+    {
+      "title":"BAKUGO 1",
+      "image":"https://i.postimg.cc/5t2XbS89/derazora-1.jpg"
+    },
+    {
+      "title":"BAKUGO 2",
+      "image":"https://i.postimg.cc/4Np75dJG/derazora-2.jpg"
+    },
+    {
+      "title":"BAKUGO 3",
+      "image":"https://i.postimg.cc/PqCdS3mD/derazora-3.jpg"
+    },
+    {
+      "title":"BAKUGO 4",
+      "image":"https://i.postimg.cc/jq7Lx5nf/derazora-4.jpg"
+    },
+    {
+      "title":"BAKUGO 5",
+      "image":"https://i.postimg.cc/bw8GFhJt/derazora-5.jpg"
+    },
+    {
+      "title":"BAKUGO 6",
+      "image":"https://i.postimg.cc/ZYGvp3zj/derazora-6.jpg"
+    },
+    {
+      "title":"BAKUGO 7",
+      "image":"https://i.postimg.cc/C1W5CyXd/derazora-7.jpg"
+    },
+    {
+      "title":"BAKUGO 8",
+      "image":"https://i.postimg.cc/cCwHX9Gh/derazora-8.jpg"
+    },
+    {
+      "title":"BAKUGO 9",
+      "image":"https://i.postimg.cc/fT7ydrKT/derazora-9.jpg"
+    },
+    {
+      "title":"BAKUGO 10",
+      "image":"https://i.postimg.cc/SR6SWnct/derazora-10.jpg"
+    },
+    {
+      "title":"BAKUGO 11",
+      "image":"https://i.postimg.cc/cLsHBB97/derazora-11.jpg"
+    },
+    {
+      "title":"BAKUGO 12",
+      "image":"https://i.postimg.cc/6pYQj4gk/derazora-12.jpg"
+    },
+    {
+      "title":"BAKUGO 13",
+      "image":"https://i.postimg.cc/tgJ4LCHY/derazora-13.jpg"
+    },
+    {
+      "title":"BAKUGO 14",
+      "image":"https://i.postimg.cc/FK6Hm59G/derazora-14.jpg"
+    },
+    {
+      "title":"BAKUGO 15",
+      "image":"https://i.postimg.cc/Hx7skZnm/derazora-15.jpg"
+    },
+    {
+      "title":"BAKUGO 16",
+      "image":"https://i.postimg.cc/D0kfJr4X/derazora-16.jpg"
+    },
+    {
+      "title":"BAKUGO 17",
+      "image":"https://i.postimg.cc/HWXkGhF4/derazora-17.jpg"
+    },
+    {
+      "title":"BAKUGO 18",
+      "image":"https://i.postimg.cc/02C5jJkz/derazora-18.jpg"
+    },
+    {
+      "title":"BAKUGO 19",
+      "image":"https://i.postimg.cc/g2SYqF6d/derazora-19.jpg"
+    },
+    {
+      "title":"BAKUGO 20",
+      "image":"https://i.postimg.cc/pXvXPBHN/derazora-20.jpg"  
+
+    }
+  ]
+}
