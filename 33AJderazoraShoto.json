@@ -1,0 +1,105 @@
+{
+"Ads":
+  [
+    {
+      "status_redirect":"0",
+      "link_redirect":"https://",
+      "admob_inter":"",
+      "admob_banner":"",
+      "admob_open_ads":"",
+      "select_ads":"STARTAPP",
+      "interval":5,
+      "unityID":"",
+      "unity_banner":"",
+      "unity_inter":"",
+      "startappid":"209859878",
+      "kidoz_pub_id":"",
+      "kidoz_token":""
+    }
+  ],
+ 
+  "Data":
+  [
+    {
+      "title":"SHOTO 1",
+      "image":"https://i.postimg.cc/YSbsZMzD/derazora-1.jpg"
+    },
+    {
+      "title":"SHOTO 2",
+      "image":"https://i.postimg.cc/7ZV4PvN0/derazora-2.jpg"
+    },
+    {
+      "title":"SHOTO 3",
+      "image":"https://i.postimg.cc/L41MYgTH/derazora-3.jpg"
+    },
+    {
+      "title":"SHOTO 4",
+      "image":"https://i.postimg.cc/FR6nFpqj/derazora-4.jpg"
+    },
+    {
+      "title":"SHOTO 5",
+      "image":"https://i.postimg.cc/7ZDDyPSq/derazora-5.jpg"
+    },
+    {
+      "title":"SHOTO 6",
+      "image":"https://i.postimg.cc/G38bF5cn/derazora-6.jpg"
+    },
+    {
+      "title":"SHOTO 7",
+      "image":"https://i.postimg.cc/59hbnS0Y/derazora-7.jpg"
+    },
+    {
+      "title":"SHOTO 8",
+      "image":"https://i.postimg.cc/9FyVSwRx/derazora-8.jpg"
+    },
+    {
+      "title":"SHOTO 9",
+      "image":"https://i.postimg.cc/W3Dc7dcw/derazora-9.jpg"
+    },
+    {
+      "title":"SHOTO 10",
+      "image":"https://i.postimg.cc/tJW0L8T1/derazora-10.jpg"
+    },
+    {
+      "title":"SHOTO 11",
+      "image":"https://i.postimg.cc/P52GsWtM/derazora-11.jpg"
+    },
+    {
+      "title":"SHOTO 12",
+      "image":"https://i.postimg.cc/hGjkSXvR/derazora-12.jpg"
+    },
+    {
+      "title":"SHOTO 13",
+      "image":"https://i.postimg.cc/4NRRz4Lp/derazora-13.jpg"
+    },
+    {
+      "title":"SHOTO 14",
+      "image":"https://i.postimg.cc/yYh4nqtt/derazora-14.jpg"
+    },
+    {
+      "title":"SHOTO 15",
+      "image":"https://i.postimg.cc/nhH8PRtz/derazora-15.jpg"
+    },
+    {
+      "title":"SHOTO 16",
+      "image":"https://i.postimg.cc/gjv5MRS8/derazora-16.jpg"
+    },
+    {
+      "title":"SHOTO 17",
+      "image":"https://i.postimg.cc/8C0qsTfJ/derazora-17.jpg"
+    },
+    {
+      "title":"SHOTO 18",
+      "image":"https://i.postimg.cc/sgf8cMpG/derazora-18.jpg"
+    },
+    {
+      "title":"SHOTO 19",
+      "image":"https://i.postimg.cc/NM2ZHZRN/derazora-19.jpg"
+    },
+    {
+      "title":"SHOTO 20",
+      "image":"https://i.postimg.cc/dtYghH3B/derazora-20.jpg"  
+
+    }
+  ]
+}
