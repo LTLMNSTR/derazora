@@ -2,13 +2,13 @@
 
 "Ads": [
     {
-      "select_main_ads": "APPLOVIN-M",
+      "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "8b7cc571bb170a69",
-      "main_ads_intertitial":"8b7cc571bb170a69",
+      "main_ads_banner": "ca-app-pub-5377210492957966/2976211302",
+      "main_ads_intertitial":"ca-app-pub-5377210492957966/2976211302",
       "backup_ads_banner":"8b7cc571bb170a69",
       "backup_ads_intertitial":"8b7cc571bb170a69",
-      "initialize_sdk":"inN7BceTpUoEsTiRT9mZUW-4Wbty5zRmF-Uz6tKDTL-Cg3QfRCZ--W3hU2f0C9ouBHyhXqAIXT_BRnGCE0WdTz",
+      "initialize_sdk":"ca-app-pub-5377210492957966~8761044544",
       "initialize_sdk_backup_ads":"inN7BceTpUoEsTiRT9mZUW-4Wbty5zRmF-Uz6tKDTL-Cg3QfRCZ--W3hU2f0C9ouBHyhXqAIXT_BRnGCE0WdTz",
       "url_webiste":"https://derazoraapps.blogspot.com/",
       "high_paying_keyword_1": "",
