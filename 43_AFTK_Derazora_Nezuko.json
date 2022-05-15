@@ -3,13 +3,13 @@
 "Ads": [
     {
       "select_main_ads": "IRON",
-      "select_backup_ads":"ADMOB",
+      "select_backup_ads":"IRON",
       "main_ads_banner": "DefaultBanner",
       "main_ads_intertitial":"DefaultInterstitial",
-      "backup_ads_banner":"ca-app-pub-5377210492957966/2976211302",
-      "backup_ads_intertitial":"ca-app-pub-5377210492957966/2976211302",
+      "backup_ads_banner":"DefaultBanner",
+      "backup_ads_intertitial":"DefaultInterstitial",
       "initialize_sdk":"1218cf875",
-      "initialize_sdk_backup_ads":"ca-app-pub-5377210492957966~8761044544",
+      "initialize_sdk_backup_ads":"1218cf875",
       "url_webiste":"https://derazoraapps.blogspot.com/",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
