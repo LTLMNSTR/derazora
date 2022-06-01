@@ -2,14 +2,14 @@
 
 "Ads": [
     {
-      "select_main_ads": "IRON",
-      "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "DefaultBanner",
-      "main_ads_intertitial":"DefaultInterstitial",
-      "backup_ads_banner":"d2381986a2f831c6",
-      "backup_ads_intertitial":"d2381986a2f831c6",
-      "initialize_sdk":"14aefd279",
-      "initialize_sdk_backup_ads":"inN7BceTpUoEsTiRT9mZUW-4Wbty5zRmF-Uz6tKDTL-Cg3QfRCZ--W3hU2f0C9ouBHyhXqAIXT_BRnGCE0WdTz",
+      "select_main_ads": "APPLOVIN-M",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "d2381986a2f831c6",
+      "main_ads_intertitial":"d2381986a2f831c6",
+      "backup_ads_banner":"DefaultBanner",
+      "backup_ads_intertitial":"DefaultInterstitial",
+      "initialize_sdk":"inN7BceTpUoEsTiRT9mZUW-4Wbty5zRmF-Uz6tKDTL-Cg3QfRCZ--W3hU2f0C9ouBHyhXqAIXT_BRnGCE0WdTz",
+      "initialize_sdk_backup_ads":"14aefd279",
       "url_webiste":"https://derazoraapps.blogspot.com/",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "law offices near me, printing companies near me, irrigation companies near me, businesses for sale near me, local businesses near me, law firms near me, coin car wash near me, businesses near me, tailor shop near me, yelp restaurants, plumbing companies near me, yelp for business, accountant near me, google business account, business for sale, my business, google business, google my business, business",
