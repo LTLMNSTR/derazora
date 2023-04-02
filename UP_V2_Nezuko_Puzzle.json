@@ -2,17 +2,17 @@
 "Ads":
   [
     {
-      "status_redirect":"",
-      "link_redirect":"",
+      "status_redirect":"0",
+      "link_redirect":"https://",
       "admob_inter":"",
       "admob_banner":"",
       "admob_open_ads":"",
-      "select_ads":"",
-      "interval":"",
-      "unityID":"",
-      "unity_banner":"",
-      "unity_inter":"",
-      "startappid":""   ,
+      "select_ads":"UNITY",
+      "interval":1,
+      "unityID":"4605119",
+      "unity_banner":"Banner_Android",
+      "unity_inter":"Interstitial_Android",
+      "startappid":"209616563",
       "kidoz_pub_id":"",
       "kidoz_token":""
     }
@@ -21,30 +21,85 @@
   "Data":
   [
     {
-      "title":"Waterfall",
-      "image":"https://i.pinimg.com/564x/a7/43/2d/a7432d11b2a629d1f05162a6c518744f.jpg"
+      "title":"Nezuko 1",
+      "image":"https://i.postimg.cc/y85JzQ1p/derazora-1.jpg"
     },
     {
-      "title": "River",
-      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+      "title":"Nezuko 2",
+      "image":"https://i.postimg.cc/pLy94bHn/derazora-2.jpg"
     },
     {
-      "title":"Mountain",
-      "image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cd5f075-42da-466b-b00a-8bb7ef66ad32/da9l0sw-5f1c1073-d232-4c10-8385-6176e1d71be2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMWNkNWYwNzUtNDJkYS00NjZiLWIwMGEtOGJiN2VmNjZhZDMyXC9kYTlsMHN3LTVmMWMxMDczLWQyMzItNGMxMC04Mzg1LTYxNzZlMWQ3MWJlMi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.QqjZ3T5HxGHJ8A3n3lC87BcVcLoXJUZZ1DOWf4MK4Ew"
+      "title":"Nezuko 3",
+      "image":"https://i.postimg.cc/SQ7zzfdj/derazora-3.jpg"
     },
     {
-      "title":"Cute Cat",
-      "image":"http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
-    }
-  ,
-    {
-      "title":"Dog",
-      "image":"https://3diphonewallpaper.com/wp-content/uploads/2018/03/iPhone-Wallpaper-Cute-Puppies-Pictures.jpg"
+      "title":"Nezuko 4",
+      "image":"https://i.postimg.cc/5936tN9C/derazora-4.jpg"
     },
     {
-      "title":"Super Car",
-      "image":"file:///android_asset/image/car.jpg"
+      "title":"Nezuko 5",
+      "image":"https://i.postimg.cc/TPDK2Vhd/derazora-5.jpg"
+    },
+    {
+      "title":"Nezuko 6",
+      "image":"https://i.postimg.cc/rFf0fyvk/derazora-6.jpg"
+    },
+    {
+      "title":"Nezuko 7",
+      "image":"https://i.postimg.cc/3JxW05Wb/derazora-7.jpg"
+    },
+    {
+      "title":"Nezuko 8",
+      "image":"https://i.postimg.cc/L69gkgQD/derazora-8.jpg"
+    },
+    {
+      "title":"Nezuko 9",
+      "image":"https://i.postimg.cc/k4PB22tx/derazora-9.jpg"
+    },
+    {
+      "title":"Nezuko 10",
+      "image":"https://i.postimg.cc/QtgV1jpv/derazora-10.jpg"
+    },
+    {
+      "title":"Nezuko 11",
+      "image":"https://i.postimg.cc/Y0p0xTR0/derazora-11.jpg"
+    },
+    {
+      "title":"Nezuko 12",
+      "image":"https://i.postimg.cc/G2Rmc6ZK/derazora-12.jpg"
+    },
+    {
+      "title":"Nezuko 13",
+      "image":"https://i.postimg.cc/ZKsnr7dY/derazora-13.jpg"
+    },
+    {
+      "title":"Nezuko 14",
+      "image":"https://i.postimg.cc/nhszT444/derazora-14.jpg"
+    },
+    {
+      "title":"Nezuko 15",
+      "image":"https://i.postimg.cc/4xr30YPr/derazora-15.jpg"
+    },
+    {
+      "title":"Nezuko 16",
+      "image":"https://i.postimg.cc/GmsLvcRz/derazora-16.jpg"
+    },
+    {
+      "title":"Nezuko 17",
+      "image":"https://i.postimg.cc/TY1YYVHz/derazora-17.jpg"
+    },
+    {
+      "title":"Nezuko 18",
+      "image":"https://i.postimg.cc/MKLZcnCv/derazora-18.jpg"
+    },
+    {
+      "title":"Nezuko 19",
+      "image":"https://i.postimg.cc/50mNjnJV/derazora-19.jpg"
+    },
+    {
+      "title":"Nezuko 20",
+      "image":"https://i.postimg.cc/D0jvP0mp/derazora-20.jpg"  
+
     }
   ]
-
 }
