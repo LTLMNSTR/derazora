@@ -1,0 +1,105 @@
+{
+"Ads":
+  [
+    {
+      "status_redirect":"0",
+      "link_redirect":"https://",
+      "admob_inter":"",
+      "admob_banner":"",
+      "admob_open_ads":"",
+      "select_ads":"UNITY",
+      "interval":2,
+      "unityID":"4605109",
+      "unity_banner":"Banner_Android",
+      "unity_inter":"Interstitial_Android",
+      "startappid":"209626187",
+      "kidoz_pub_id":"",
+      "kidoz_token":""
+    }
+  ],
+ 
+  "Data":
+  [
+    {
+      "title":"Inosuke Hashibira 1",
+      "image":"https://i.postimg.cc/sDjYvZqc/derazora-1.jpg"
+    },
+    {
+      "title":"Inosuke Hashibira 2",
+      "image":"https://i.postimg.cc/tC848K3x/derazora-2.jpg"
+    },
+    {
+      "title":"Inosuke Hashibira 3",
+      "image":"https://i.postimg.cc/8CMJy1xc/derazora-3.jpg"
+    },
+    {
+      "title":"Inosuke Hashibira 4",
+      "image":"https://i.postimg.cc/vZdpgy5M/derazora-4.jpg"
+    },
+    {
+      "title":"Inosuke Hashibira 5",
+      "image":"https://i.postimg.cc/52vvYNPp/derazora-5.jpg"
+    },
+    {
+      "title":"Inosuke Hashibira 6",
+      "image":"https://i.postimg.cc/Pr0Y58MP/derazora-6.jpg"
+    },
+    {
+      "title":"Inosuke Hashibira 7",
+      "image":"https://i.postimg.cc/KjM8YQFz/derazora-7.jpg"
+    },
+    {
+      "title":"Inosuke Hashibira 8",
+      "image":"https://i.postimg.cc/1Xhgh4Vb/derazora-8.jpg"
+    },
+    {
+      "title":"Inosuke Hashibira 9",
+      "image":"https://i.postimg.cc/ZRFmnqDG/derazora-9.jpg"
+    },
+    {
+      "title":"Inosuke Hashibira 10",
+      "image":"https://i.postimg.cc/Mpbg1LYB/derazora-10.jpg"
+    },
+    {
+      "title":"Inosuke Hashibira 11",
+      "image":"https://i.postimg.cc/WzL7WNN1/derazora-11.jpg"
+    },
+    {
+      "title":"Inosuke Hashibira 12",
+      "image":"https://i.postimg.cc/ryrnSbVp/derazora-12.jpg"
+    },
+    {
+      "title":"Inosuke Hashibira 13",
+      "image":"https://i.postimg.cc/rFRhNHqm/derazora-13.jpg"
+    },
+    {
+      "title":"Inosuke Hashibira 14",
+      "image":"https://i.postimg.cc/HxjKDk10/derazora-14.jpg"
+    },
+    {
+      "title":"Inosuke Hashibira 15",
+      "image":"https://i.postimg.cc/j5K5ZBVr/derazora-15.jpg"
+    },
+    {
+      "title":"Inosuke Hashibira 16",
+      "image":"https://i.postimg.cc/wTPjS1K2/derazora-16.jpg"
+    },
+    {
+      "title":"Inosuke Hashibira 17",
+      "image":"https://i.postimg.cc/4yx3TtNL/derazora-17.jpg"
+    },
+    {
+      "title":"Inosuke Hashibira 18",
+      "image":"https://i.postimg.cc/4yYT513g/derazora-18.jpg"
+    },
+    {
+      "title":"Inosuke Hashibira 19",
+      "image":"https://i.postimg.cc/Z5xK0VB7/derazora-19.jpg"
+    },
+    {
+      "title":"Inosuke Hashibira 20",
+      "image":"https://i.postimg.cc/RFz32NHy/derazora-20.jpg"  
+
+    }
+  ]
+}
