@@ -4,10 +4,10 @@
     {
       "status_redirect":"0",
       "link_redirect":"https://",
-      "admob_inter":"",
-      "admob_banner":"",
+      "admob_inter":"ca-app-pub-5377210492957966/5570433366",
+      "admob_banner":"ca-app-pub-5377210492957966/4905300526",
       "admob_open_ads":"",
-      "select_ads":"UNITY",
+      "select_ads":"ADMOB",
       "interval":1,
       "unityID":"4605119",
       "unity_banner":"Banner_Android",
